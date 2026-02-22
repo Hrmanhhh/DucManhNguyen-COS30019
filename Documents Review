@@ -1,0 +1,9 @@
+Document D1: Ethical Considerations in Artificial Intelligence Courses - Burton et al. (2017)
+  - The authors state that computer science students are building powerful AI but not teaching them how to handle ethical consequences
+  Questions:
+    - Who is responsible for the behavior of the machine (AI)?
+Document D2: Introducing Mandatory Guardrails for AI in High-Risk Settings - Australian Government (2024)
+  - The Australian Government say AI used in high-risk dangerous areas must have rules or solutions to prevent harm
+  Questions:
+    - What are these high-risk dangerous areas?
+    - What's Human-in-a-loop?
