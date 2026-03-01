@@ -6,9 +6,9 @@
 ## 📅 Milestone Tracker
 - [x] **Week 2:** Analysis of Base Documents D1 & D2 (Completed Feb 16)
 - [x] **Week 3:** Identification of Key Issues (Completed Feb 16)
-- [ ] **Week 3-4:** Introduction Draft (500-800 words) (In Progress)
-- [ ] **Week 4:** Core Arguments & Systematic Research (Upcoming)
-- [ ] **Week 5:** Final Polish & Submission
+- [x] **Week 3-4:** Introduction Draft (500-800 words) (In Progress)
+- [x] **Week 4:** Core Arguments & Systematic Research (Upcoming)
+- [x] **Week 5:** Final Polish & Submission
 
 ## 📝 Recent Activity
 - **Feb 16:** Analyzed Burton et al. (D1) regarding designer ethics and the AU Government Proposals (D2) on high-risk AI guardrails.
